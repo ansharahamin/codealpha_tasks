@@ -7,7 +7,7 @@ It allows users to input their **Date of Birth** and instantly calculates their 
 
 ## 🌐 Live Demo
 You can host it on GitHub Pages after uploading the code:
-👉 `https://yourusername.github.io/CodeAlpha_AgeCalculator`
+👉 `https://vermillion-flan-1d83db.netlify.app/`
 
 ---
 
@@ -26,12 +26,9 @@ You can host it on GitHub Pages after uploading the code:
 
 ---
 
-## 📸 Screenshot
-![Age Calculator Screenshot](./screenshot.png)
 
----
 
 ## 🧰 How to Run
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_AgeCalculator.git
+   git clone https://github.com/ansharahamin/CodeAlpha-Age-Calculator.git
